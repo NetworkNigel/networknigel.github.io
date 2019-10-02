@@ -44,3 +44,11 @@ section:before {
     margin-top: -75px;   	
     visibility: hidden; 
 }
+footer {
+    text-align: center;
+    font-size: 1em;
+    color: white;
+    background-color: gray;
+    max-width: 1000px;
+    border-radius: 2px;
+}
