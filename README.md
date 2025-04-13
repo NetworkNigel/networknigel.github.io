@@ -1,6 +1,6 @@
-# [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
+# [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/). Edited by Nigel Gagui
 
-This repository is currently using the [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) theme which is a multipurpose, one-page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). 
+This repository is currently using the [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) theme which is a multipurpose, one-page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). I, Nigel Gagui, do not take credit for the theme and layout elements coding however I have customized the theme's design to accommodate my needs. This layout is to show a brief portfolio of my career profile and resume, showcasing some coding experience and my resume.
 
 
 ## Status
